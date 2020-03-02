@@ -18,6 +18,7 @@
     $(LOCAL_DIR)/beryllium/pa_beryllium.mk \
     $(LOCAL_DIR)/dipper/pa_dipper.mk \
     $(LOCAL_DIR)/gemini/pa_gemini.mk \
+    $(LOCAL_DIR)/hannah/pa_hannah.mk    
     $(LOCAL_DIR)/oneplus3/pa_oneplus3.mk \
     $(LOCAL_DIR)/oneplus6/pa_oneplus6.mk \
     $(LOCAL_DIR)/oneplus6t/pa_oneplus6t.mk \
