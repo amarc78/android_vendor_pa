@@ -7,32 +7,50 @@
     },
     {
         "remote":       "Github",
-        "repository":   "LineageOS/android_kernel_motorola_msm8937",
+        "repository":   "amarc78/android_kernel_motorola_msm8937",
         "target_path":  "kernel/motorola/msm8937",
         "revision":     "lineage-16.0"
     },
     {
         "remote":       "Github",
-        "repository":   "TheMuppets/proprietary_vendor_motorola",
+        "repository":   "amarc78/proprietary_vendor_motorola",
         "target_path":  "vendor/motorola",
         "revision":     "lineage-16.0"
     },
     {
+        "remote":       "Github",
+        "repository":   "LineageOS/android_packages_resources_devicesettings",   
+        "repository":   "android_packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings"
+   },    
+   {
+        "remote":       "Github",
+        "repository":   "LineageOS/android_external_bson",   
+        "repository":   "android_external_bson",
+        "target_path":  "external/bson"
+   },
+   {
+        "remote":       "Github",
+        "repository":   "LineageOS/system_qcom",   
+        "repository":   "system_qcom",
+        "target_path":  "system/qcom"
+   },    
+   {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "hardware/qcom/audio",
         "revision":     "pie-8996"
-    },
-    {
+   },
+   {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_display",
         "target_path":  "hardware/qcom/display",
         "revision":     "pie-8996"
-    },
-    {
+   },
+   {
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_media",
         "target_path":  "hardware/qcom/media",
         "revision":     "pie-8996"
-    }
+   }
 ]
